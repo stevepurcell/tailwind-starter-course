@@ -807,6 +807,10 @@ html {
   padding-right: 1rem;
 }
 
+.text-center{
+  text-align: center;
+}
+
 .text-right{
   text-align: right;
 }
@@ -903,6 +907,10 @@ html {
 
 .group.open .group-open\:-top-2{
   top: -0.5rem;
+}
+
+.group.open .group-open\:block{
+  display: block;
 }
 
 .group.open .group-open\:rotate-45{
